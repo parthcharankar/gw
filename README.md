@@ -10,4 +10,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parthcharankar&layout=compact&theme=tokyonight)
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/parthcharankar/parthcharankar/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/parthcharankar/gw/output/github-contribution-grid-snake.svg)
